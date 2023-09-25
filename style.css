@@ -5,3 +5,23 @@ img{
 .color-text{
     font-weight: normal;
 }
+
+#red{
+    color: red;
+}
+
+#orange{
+    color: orange;
+}
+
+#yellow{
+    color: yellow;
+}
+
+#green{
+    color: green;
+}
+
+#blue{
+    color: blue;
+}
